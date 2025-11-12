@@ -1,2 +1,3 @@
 # hello-world
-prints "Hello World!".
+Prints "Hello World!"
+This file is a test of commit changes. 
