@@ -1,3 +1,4 @@
 # hello-world
 Prints "Hello World!"
-print(Hello World!)
+
+echo "print('Hello World!')" > hello_world.py
